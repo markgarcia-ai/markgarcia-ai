@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I'm a creative and tenacious electronics engineer with experience developing hardware, software and systems design within the automotive world for over 12 years.
+
+- 🔭 I’m currently working on this github page
+- 🌱 I’m currently learning deep learning
+- 👯 I’m looking to collaborate on machine learning projects
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+Thanks for reading!
+
 <!--
 **marcjesus/marcjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
