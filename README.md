@@ -1,4 +1,4 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d](https://github.com/marcjesus/marcjesus/blob/main/linkedin_banner.png))
 <h3 align="center">A passionate engineer interested in AI applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcjesus&label=Profile%20views&color=0e75b6&style=flat" alt="marcjesus" /> </p>
