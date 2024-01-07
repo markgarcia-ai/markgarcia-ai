@@ -1,7 +1,7 @@
-![MasterHead](https://github.com/marcjesus/marcjesus/blob/main/Github_banner.png)
+![MasterHead](https://github.com/markgarcia-ai/markgarcia-ai/blob/main/Github_banner.png)
 <h3 align="center">A passionate engineer interested in AI applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcjesus&label=Profile%20views&color=0e75b6&style=flat" alt="marcjesus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=markgarcia-ai&label=Profile%20views&color=0e75b6&style=flat" alt="markgarcia-ai" /> </p>
 
 Welcome to my GitHub page. My name is Mark or Marc, I'm an engineer with strong passion for new technologies, anything related to AI and interesting projects. 
 
@@ -27,6 +27,6 @@ Welcome to my GitHub page. My name is Mark or Marc, I'm an engineer with strong 
 
 
 <h3 align="left">Github metrics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcjesus&show_icons=true&locale=en&layout=compact" alt="marcjesus" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markgarcia-ais&show_icons=true&locale=en&layout=compact" alt="markgarcia-ai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcjesus&show_icons=true&locale=en" alt="marcjesus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markgarcia-ais&show_icons=true&locale=en" alt="markgarcia-ai" /></p>
