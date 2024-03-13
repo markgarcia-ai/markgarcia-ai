@@ -21,9 +21,3 @@ My blog : https://markgarcia-ai.github.io/
 
 <h3 align="left">My working projects:</h3>
 <p>Image training and model for specific object detection</p>
-
-
-<h3 align="left">Github metrics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markgarcia-ais&show_icons=true&locale=en&layout=compact" alt="markgarcia-ai" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markgarcia-ais&show_icons=true&locale=en" alt="markgarcia-ai" /></p>
